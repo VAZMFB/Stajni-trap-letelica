@@ -20,7 +20,7 @@ Univerzitet u Beogradu Mašinski fakultet
 
 ## Početak predgovora
 
-> Cilj ove knjige je da olakša razumevanje procesa projektovanja i proračuna stajnog trapa studentima modula Vazduhoplovstvo na Mašinskom fakultetu Univerziteta u Beogradu. Studenti nakon završetka kursa koji je obuhvaćen u ovoj knjizi poseduju znanja neophodna za uspešno rešavanje projektnog zadatka. I pored toga što u svetu postoji veoma dobra literatura koja se bavi ovom temom izvesno je da postoji nedostatak ovakvih izdanja u domaćoj stručnoj literaturi. ...
+> *Cilj ove knjige je da olakša razumevanje procesa projektovanja i proračuna stajnog trapa studentima modula Vazduhoplovstvo na Mašinskom fakultetu Univerziteta u Beogradu. Studenti nakon završetka kursa koji je obuhvaćen u ovoj knjizi poseduju znanja neophodna za uspešno rešavanje projektnog zadatka. I pored toga što u svetu postoji veoma dobra literatura koja se bavi ovom temom izvesno je da postoji nedostatak ovakvih izdanja u domaćoj stručnoj literaturi. ...*
 
 ## Licenca za programe
 Copyright (C) 2017-2020 Miloš Petrašinović <info@vazmfb.com>

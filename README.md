@@ -1,15 +1,14 @@
 # Stajni trap letelica
 Programi iz knjige **Stajni trap letelica (ISBN: 978-86-7083-957-1)** izdate od strane Mašinskog fakulteta Univerziteta u Beogradu.
 
+![Book](https://vazmfb.com/web/img/stajni_trap_letelica.jpg)
 
 ## Autori
 ***dr Danilo Petrašinović***, dipl.inž.maš., vanredni profesor<br>
 Univerzitet u Beogradu Mašinski fakultet
-\medskip
 
 ***dr Aleksandar Grbović***, dipl.inž.maš., vanredni profesor<br>
 Univerzitet u Beogradu Mašinski fakultet
-
 
 ***dr Mirko Dinulović***, dipl.inž.maš., vanredni profesor<br>
 Univerzitet u Beogradu Mašinski fakultet

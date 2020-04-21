@@ -1,7 +1,9 @@
 # Stajni trap letelica
 Programi iz knjige **Stajni trap letelica (ISBN: 978-86-7083-957-1)** izdate od strane Mašinskog fakulteta Univerziteta u Beogradu.
 
-![Book](https://vazmfb.com/web/img/stajni_trap_letelica.jpg)
+<p align="center">
+  <img src="https://vazmfb.com/web/img/stajni_trap_letelica.jpg" width="400">
+</p>
 
 ## Autori
 ***dr Danilo Petrašinović***, dipl.inž.maš., vanredni profesor<br>

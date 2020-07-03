@@ -14,7 +14,6 @@ Univerzitet u Beogradu Mašinski fakultet
 
 ***dr Mirko Dinulović***, dipl.inž.maš., vanredni profesor<br>
 Univerzitet u Beogradu Mašinski fakultet
-\medskip
 
 ***Miloš Petrašinović***, mast.inž.maš.<br>
 Univerzitet u Beogradu Mašinski fakultet

@@ -2,7 +2,7 @@
 Programi iz knjige **Stajni trap letelica (ISBN: 978-86-7083-957-1)** izdate od strane Mašinskog fakulteta Univerziteta u Beogradu.
 
 <p align="center">
-  <img src="https://vazmfb.com/web/img/stajni_trap_letelica.jpg" width="400">
+  <img src="https://milospetrasinovic.com/web/img/vazmfb-github/stajni_trap_letelica.jpg" width="400">
 </p>
 
 ## Autori
@@ -25,7 +25,7 @@ Univerzitet u Beogradu Mašinski fakultet
 Prikaz knjige je moguće videti na: [Stajni_trap_letelica_prikaz.pdf](https://github.com/VAZMFB/Stajni-trap-letelica/blob/master/Stajni_trap_letelica_prikaz.pdf)
 
 ## Licenca za programe
-Copyright (C) 2017-2020 Miloš Petrašinović <info@vazmfb.com>
+Copyright (C) 2017-2020 Miloš Petrašinović <mpetrasinovic@mas.bg.ac.rs>
  
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as 

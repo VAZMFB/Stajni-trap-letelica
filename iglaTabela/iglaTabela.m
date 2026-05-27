@@ -8,7 +8,7 @@
 % GNU Octave 5.1.0
 % ------------------------
 %
-% Copyright (C) 2021 Milos Petrasinovic <info@vazmfb.com>
+% Copyright (C) 2021 Milos Petrasinovic <mpetrasinovic@mas.bg.ac.rs>
 %  
 % This program is free software: you can redistribute it and/or modify
 % it under the terms of the GNU General Public License as 
